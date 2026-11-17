@@ -1,0 +1,10 @@
+# Track the workflow files listed below.
+# Add new source files explicitly when needed.
+/*
+!/.gitignore
+!/tutorial/
+/tutorial/*
+!/tutorial/create_chain.py
+!/tutorial/assign_forcefield.py
+!/tutorial/assign_forcefield_barkla.sh
+!/tutorial/polymer.control
