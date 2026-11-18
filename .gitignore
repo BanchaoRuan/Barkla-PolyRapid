@@ -10,3 +10,8 @@
 !/tutorial/polymer.control
 !/tutorial/create_box.py
 !/tutorial/create_box_barkla.sh
+!/tutorial/equilibrate.py
+!/tutorial/enmin.mdp
+!/tutorial/npt.mdp
+!/tutorial/anneal.mdp
+!/tutorial/equilibrate_barkla.sh
