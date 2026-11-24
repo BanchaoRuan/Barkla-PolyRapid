@@ -15,3 +15,7 @@
 !/tutorial/npt.mdp
 !/tutorial/anneal.mdp
 !/tutorial/equilibrate_barkla.sh
+!/tutorial/glass_transition.py
+!/tutorial/glasstransition.mdp
+!/tutorial/glass_transition_barkla.sh
+!/tutorial/glass_transition_weighted.py
